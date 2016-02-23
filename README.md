@@ -37,11 +37,9 @@ One of the big benefits of GitHub is that **it's social**. It makes it easy to f
 3. Download the command line interface from https://git-for-windows.github.io/
 4. Open Git Bash on your computer and run:
         
-        ```
         git config --global user.name "Your Name"
         git config --global user.email "your_email@whatever.com"
-        ```
-        
+
 5. Set up GitHub authentication caching on your computer by following the instructions at https://help.github.com/articles/caching-your-github-password-in-git/#platform-windows
 
 ### Mac
@@ -50,10 +48,8 @@ One of the big benefits of GitHub is that **it's social**. It makes it easy to f
 2. Download the GitHub Desktop Client application from https://desktop.github.com/
 3. Open Terminal on your computer and run:
 
-        ```
         git config --global user.name "Your Name"
         git config --global user.email "your_email@whatever.com"
-        ```
 
 4. Set up GitHub authentication caching on your computer by following the instructions at https://help.github.com/articles/caching-your-github-password-in-git/
 
