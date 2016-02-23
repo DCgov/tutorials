@@ -61,3 +61,7 @@ One of the big benefits of GitHub is that **it's social**. It makes it easy to f
 Once you've gone through those, checkout out [git - the simple guide](https://rogerdudler.github.io/git-guide/) for a refresher on commands.
 
 Git supports many different approaches to coordinating work between developers. If you're looking for ideas on how best to manage your team, check out [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/).
+
+## Questions?
+
+Find any errors in this document? Think something could be clearer? Once you've created a GitHub account, you can [open up an 'Issue' here](https://github.com/DCgov/git-instructions/issues).
