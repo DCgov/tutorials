@@ -16,7 +16,7 @@ It's the site you're on now! Simply, it is a web-based host for your Git reposit
 - Wikis for your projects (if you want them)
 - Easy static website creation and hosting through [GitHub pages](https://pages.github.com/)
 
-You can put your web app, command line client, map, 3D model, text, and other projects as GitHub repositories.
+You can put your [web app](https://github.com/18F/openFEC-web-app), [command line client](https://github.com/dcgov/dcgov-cli), [map](https://github.com/blog/1528-there-s-a-map-for-that), [3D model](https://github.com/blog/1465-stl-file-viewing), [text](https://github.com/showcases/writing), and other projects as GitHub repositories.
 
 ## Who Uses GitHub?
 
@@ -36,26 +36,26 @@ One of the big benefits of GitHub is that **it's social**. It makes it easy to f
 2. Download the GitHub Desktop Client application from https://desktop.github.com/
 3. Download the command line interface from https://git-for-windows.github.io/
 4. Open Git Bash on your computer and run:
-
-```
-git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"
-```
-
+        
+        ```
+        git config --global user.name "Your Name"
+        git config --global user.email "your_email@whatever.com"
+        ```
+        
 5. Set up GitHub authentication caching on your computer by following the instructions at https://help.github.com/articles/caching-your-github-password-in-git/#platform-windows
 
 ### Mac
 
 1. Sign up for a GitHub account at https://github.com
 2. Download the GitHub Desktop Client application from https://desktop.github.com/
-4. Open Terminal on your computer and run:
+3. Open Terminal on your computer and run:
 
-```
-git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"
-```
+        ```
+        git config --global user.name "Your Name"
+        git config --global user.email "your_email@whatever.com"
+        ```
 
-5. Set up GitHub authentication caching on your computer by following the instructions at https://help.github.com/articles/caching-your-github-password-in-git/
+4. Set up GitHub authentication caching on your computer by following the instructions at https://help.github.com/articles/caching-your-github-password-in-git/
 
 ## Learn to Use Git and GitHub
 
